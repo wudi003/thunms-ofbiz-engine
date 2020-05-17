@@ -6,6 +6,11 @@ OFBiz是一个非常著名的电子商务平台，是一个非常著名的开源
 
 ofbiz entity service 实体引擎 服务引擎 工作流引擎 这个是基于网上别人整理出来的一个独立的 ofbiz实体引擎的版本,亲测可以使用使用的ofbiz的版本应该是比较老的,寻找有缘人.
 
+#### 测评过程
+
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0517/082024_a12f1f7e_506471.png "屏幕截图.png")
+
+
 #### [ofbiz的架构设计](https://www.iteye.com/blog/jiasudu-103782) 来源互联网
 软件架构说明
 1.数据层
