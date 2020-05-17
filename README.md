@@ -6,7 +6,7 @@ OFBiz是一个非常著名的电子商务平台，是一个非常著名的开源
 
 ofbiz entity service 实体引擎 服务引擎 工作流引擎 这个是基于网上别人整理出来的一个独立的 ofbiz实体引擎的版本,亲测可以使用使用的ofbiz的版本应该是比较老的,寻找有缘人.
 
-#### [ofbiz的架构设计](https://www.iteye.com/blog/jiasudu-103782)
+#### [ofbiz的架构设计](https://www.iteye.com/blog/jiasudu-103782) 来源互联网
 软件架构说明
 1.数据层
 在数据层中,OFBIZ使用ENTITY ENGINE作为其工具,并且能够满足99%与数据库交互的功能.有时在某些地方Entity Engine并不是有效的.这时就需要编写自定义的JDBC代码来与数据库交互.
@@ -182,7 +182,7 @@ Java文件，共4197776 bytes。
 作为一个初级的开发者来说，用好上述这些类加上基于OFBIZ的开发过程定义就可以了；但对于一个真正要用好OFBIZ的开发者，远不止上面这些，需要全面理解和掌握OFBIZ的流程、框架和代码。
 
 
-#### [15天用OFBiz做一个商城管理后台和店铺管理后台](https://www.iteye.com/blog/jiasudu-2059442)
+#### [15天用OFBiz做一个商城管理后台和店铺管理后台](https://www.iteye.com/blog/jiasudu-2059442) 来源互联网
 
 仅仅是记录一些弟兄们的工作经历。没有吹嘘使用OFBiz使用效率高的意思。
 所谓的效率高，仅仅是多年积累的代码复用过来而已。
